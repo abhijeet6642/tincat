@@ -1,0 +1,14 @@
+.gradiant-background{
+    background: rgb(206,15,15);
+    background: linear-gradient(90deg, rgba(206,15,15,0.6531862745098039) 0%, rgba(215,16,31,1) 34%, rgba(179,0,255,1) 100%);
+}
+
+.icon-square{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.cat{
+    size: 20px;
+}
